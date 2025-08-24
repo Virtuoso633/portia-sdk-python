@@ -1,3 +1,8 @@
+***
+
+# SEE the readme for Hackathon submission in AgentHack.md
+
+***
 <p align="center">
     <a href="https://docs.portialabs.ai/steel-thread-intro">
        <img alt="SteelThread banner" src="assets/steelthread_banner.png" width="75%">
